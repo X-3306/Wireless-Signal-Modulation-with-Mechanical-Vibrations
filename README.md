@@ -1,4 +1,4 @@
-### if you are familiar with the topic, and have any ideas, objections, or want to develop this code, join this discord:
+### if you are familiar with the topic, and have any ideas, objections, or want to develop this code, join this discord: https://discord.gg/XRhbCk2gaz
 ### Also visit my website!: https://darkwave.42web.io
 
 # Wireless-Signal-Modulation-with-Mechanical-Vibrations
