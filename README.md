@@ -29,6 +29,28 @@ To use the code:
 4. Implement the signal processing algorithm in the `processSignal` function to produce sound output.
 5. Build and run the code.
 
+
+# Who can use it and what can it be used for?
+
+'Scientists and engineers working in the field of wireless communications can use this code to experiment with new modulation techniques and explore unconventional ways of transmitting information.'
+
+- Hobbyists and enthusiasts interested in radio electronics can use this code to build their own custom communication systems or explore the principles of radio signal modulation and demodulation.
+
+- Signal processing engineers can use this code as a starting point to develop advanced demodulation and signal processing algorithms in various fields such as audio, telecommunications or data analysis.
+
+- Why is it necessary or valuable?
+This code is the basis for exploring alternative methods of communication that go beyond conventional approaches. It allows the study of new techniques based on the interaction between mechanical vibrations and radio signals.
+It offers customization flexibility, allowing researchers and developers to adapt the code to their specific requirements and experiment with different modulation and demodulation schemes.
+By providing a framework for signal processing, the code facilitates the analysis and extraction of meaningful information from the received signals, opening up possibilities for various applications in data transmission, detection or audio processing.
+
+- How can this be used in a black hat?
+While this code does not per se contain black hat applications, the knowledge gained from understanding the principles of modulation, demodulation, and signal processing could potentially be misused for unauthorized interception of wireless communications or unauthorized access to sensitive information. That's why this code is so important. And It is important to use such knowledge and code responsibly and within legal and ethical limits.
+
+- How can it be beneficial?
+The code gives the opportunity to explore unconventional ways of communication and signal processing, potentially leading to innovative solutions in wireless technology.
+It can be a valuable source of knowledge to understand the concepts and algorithms behind modulation, demodulation and signal processing.
+By experimenting with this code, scientists and developers can discover new applications and possibilities in wireless communications, sensing systems, audio processing, or other related fields.
+
 ## Resources
 
 Here are some resources that can help in understanding the concepts and principles behind the code:
