@@ -32,7 +32,7 @@ To use the code:
 
 # Who can use it and what can it be used for?
 
-'Scientists and engineers working in the field of wireless communications can use this code to experiment with new modulation techniques and explore unconventional ways of transmitting information.'
+- Scientists and engineers working in the field of wireless communications can use this code to experiment with new modulation techniques and explore unconventional ways of transmitting information.
 
 - Hobbyists and enthusiasts interested in radio electronics can use this code to build their own custom communication systems or explore the principles of radio signal modulation and demodulation.
 
