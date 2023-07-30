@@ -12,6 +12,10 @@ More broadly, it showcases common digital signal processing concepts used in man
 # simple compile encryption files:
 (Kali-Linux) --> `gcc test-encryptSignal.c encryptSignal.c -o resultfile`
 
+```
+chmod +x resultfile
+```
+
 # usage description for each of the code files:
 
 modulation.c - This file contains the main implementation of signal modulation and processing functions. It implements functionality like signal modulation, encryption, demodulation, and audio output generation. To use this file, it should be compiled and linked into an executable program.
