@@ -41,16 +41,6 @@ testencryption.c is a test harness to validate encryption.c
 
 - Signal processing engineers can use this code as a starting point to develop advanced demodulation and signal processing algorithms in various fields such as audio, telecommunications or data analysis.
 
-- Why is it necessary or valuable?
-This code is the basis for exploring alternative methods of communication that go beyond conventional approaches. It allows the study of new techniques based on the interaction between mechanical vibrations and radio signals.
-It offers customization flexibility, allowing researchers and developers to adapt the code to their specific requirements and experiment with different modulation and demodulation schemes.
-By providing a framework for signal processing, the code facilitates the analysis and extraction of meaningful information from the received signals, opening up possibilities for various applications in data transmission, detection or audio processing.
-
-- How can it be beneficial?
-The code gives the opportunity to explore unconventional ways of communication and signal processing, potentially leading to innovative solutions in wireless technology.
-It can be a valuable source of knowledge to understand the concepts and algorithms behind modulation, demodulation and signal processing.
-By experimenting with this code, scientists and developers can discover new applications and possibilities in wireless communications, sensing systems, audio processing, or other related fields.
-
 ## Resources
 
 Here are some resources that can help in understanding the concepts and principles behind the code:
