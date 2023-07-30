@@ -1,5 +1,6 @@
 ### if you are familiar with the topic, and have any ideas, objections, or want to develop this code, join this discord: https://discord.gg/XRhbCk2gaz
 
+
 ### DESCRYPTION ###
 fundamental signal processing and encryption functions for encoding information on communication signals. The main techniques demonstrated are modulation, encryption, demodulation, and audio output generation.
 
@@ -7,6 +8,9 @@ In practice, these techniques could be applied to build radio communication syst
 
 More broadly, it showcases common digital signal processing concepts used in many telecommunication systems like radio, cellular networks, and Bluetooth. The principles of modulating data onto carrier waves, encrypting for security, and reconstructing audio/data after transmission are widely applied. These core algorithms power a range of wireless protocols and standards.
 
+
+# simple compile encryption files:
+(Kali-Linux) --> `gcc test-encryptSignal.c encryptSignal.c -o resultfile`
 
 # usage description for each of the code files:
 
