@@ -12,7 +12,7 @@ More broadly, it showcases common digital signal processing concepts used in man
 # simple compile encryption files:
 (Kali-Linux) -->
 ```
-gcc test-encryptSignal.c encryptSignal.c -o resultfile`
+gcc test-encryptSignal.c encryptSignal.c -o resultfile
 ```
 
 ```
