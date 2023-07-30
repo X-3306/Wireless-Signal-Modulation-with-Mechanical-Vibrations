@@ -10,11 +10,15 @@ More broadly, it showcases common digital signal processing concepts used in man
 
 
 # simple compile encryption files:
-(Kali-Linux) --> `gcc test-encryptSignal.c encryptSignal.c -o resultfile`
+(Kali-Linux) -->
+```
+gcc test-encryptSignal.c encryptSignal.c -o resultfile`
 
-```
 chmod +x resultfile
+
+./resultfile
 ```
+
 
 # usage description for each of the code files:
 
