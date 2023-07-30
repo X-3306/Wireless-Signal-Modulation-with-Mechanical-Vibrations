@@ -1,9 +1,7 @@
-// test_encryptSignal.c
+// test-encryptSignal.c
 
 #include <assert.h>
-
-// Remove encryptSignal.c include to avoid duplicate definition
-// #include "encryptSignal.c"  
+ 
 
 // Keep prototype
 void encryptSignal(double*, int);
