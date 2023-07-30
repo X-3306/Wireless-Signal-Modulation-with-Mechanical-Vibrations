@@ -9,25 +9,25 @@ This repository provides code for modulating radio signals based on mechanical v
 
 This repository contains code for modulating and demodulating radio signals based on mechanical vibrations. It provides a starting point for exploring alternative methods of wireless communication and signal processing.
 
-## Code Overview
+# usage description for each of the code files:
 
-The code consists of the following main functions:
+modulation.c - This file contains the main implementation of signal modulation and processing functions. It implements functionality like signal modulation, encryption, demodulation, and audio output generation. To use this file, it should be compiled and linked into an executable program.
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
-- `modulateSignal`: Modulates the radio signal based on mechanical vibrations.
-- `demodulateSignal`: Demodulates the received signal to extract the modulated information.
-- `processSignal`: Processes the demodulated signal and produces the sound output.
+modulation.h - This is a header file containing declarations for the functions implemented in modulation.c. Any code that wants to call those functions should #include this header to access the prototypes. It allows modularization by separating declarations from definitions.
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
-The main function `main` sets up the hardware components, generates and transmits the radio signal, receives the modulated signal, demodulates it, processes the demodulated signal, and outputs the sound.
+testencryption.c - This file contains a test case and validation code for the encryptSignal() function. It tests that encryptSignal() produces the expected encrypted output. To use this, compile and run testencryption.c along with encryption.c to verify correct encryption behavior.
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
-## Usage
+encryption.c - This file provides the implementation of the encryptSignal() function to encrypt a signal. testencryption.c depends on and uses this encryption function. To use this file, it should be compiled with any code that needs to call encryptSignal(), like the test case.
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
-To use the code:
+# In summary:
 
-1. Include the necessary libraries and headers.
-2. Set up the hardware components and configure the circuit.
-3. Customize the modulation and demodulation algorithms in the `modulateSignal` and `demodulateSignal` functions, respectively.
-4. Implement the signal processing algorithm in the `processSignal` function to produce sound output.
-5. Build and run the code.
+modulation.c/modulation.h provide the core signal processing functions
+encryption.c contains the reusable encryption function
+testencryption.c is a test harness to validate encryption.c
 
 
 # Who can use it and what can it be used for?
