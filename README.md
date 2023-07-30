@@ -13,9 +13,13 @@ More broadly, it showcases common digital signal processing concepts used in man
 (Kali-Linux) -->
 ```
 gcc test-encryptSignal.c encryptSignal.c -o resultfile`
+```
 
+```
 chmod +x resultfile
+```
 
+```
 ./resultfile
 ```
 
