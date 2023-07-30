@@ -1,13 +1,12 @@
 ### if you are familiar with the topic, and have any ideas, objections, or want to develop this code, join this discord: https://discord.gg/XRhbCk2gaz
-### Also visit my website!: https://darkwave.42web.io
 
-# Wireless-Signal-Modulation-with-Mechanical-Vibrations
-This repository provides code for modulating radio signals based on mechanical vibrations, demodulating received signals to extract information, and processing demodulated signals to produce sound output.
+### DESCRYPTION ###
+fundamental signal processing and encryption functions for encoding information on communication signals. The main techniques demonstrated are modulation, encryption, demodulation, and audio output generation.
 
+In practice, these techniques could be applied to build radio communication systems to transmit audio information securely. For example, it could be used in ham/amateur radio by hobbyists to create their own encrypted channel for voice communication. The modulation schemes can encode voice into a radio-frequency signal, while encryption prevents eavesdropping.
 
-# Radio Signal Modulation and Demodulation
+More broadly, it showcases common digital signal processing concepts used in many telecommunication systems like radio, cellular networks, and Bluetooth. The principles of modulating data onto carrier waves, encrypting for security, and reconstructing audio/data after transmission are widely applied. These core algorithms power a range of wireless protocols and standards.
 
-This repository contains code for modulating and demodulating radio signals based on mechanical vibrations. It provides a starting point for exploring alternative methods of wireless communication and signal processing.
 
 # usage description for each of the code files:
 
@@ -42,9 +41,6 @@ testencryption.c is a test harness to validate encryption.c
 This code is the basis for exploring alternative methods of communication that go beyond conventional approaches. It allows the study of new techniques based on the interaction between mechanical vibrations and radio signals.
 It offers customization flexibility, allowing researchers and developers to adapt the code to their specific requirements and experiment with different modulation and demodulation schemes.
 By providing a framework for signal processing, the code facilitates the analysis and extraction of meaningful information from the received signals, opening up possibilities for various applications in data transmission, detection or audio processing.
-
-- How can this be used in a black hat?
-While this code does not per se contain black hat applications, the knowledge gained from understanding the principles of modulation, demodulation, and signal processing could potentially be misused for unauthorized interception of wireless communications or unauthorized access to sensitive information. That's why this code is so important. And It is important to use such knowledge and code responsibly and within legal and ethical limits.
 
 - How can it be beneficial?
 The code gives the opportunity to explore unconventional ways of communication and signal processing, potentially leading to innovative solutions in wireless technology.
