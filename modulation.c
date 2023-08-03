@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 // Constants in header file
-#include "/home/kali/Desktop/C/modulation.h" 
+#include "modulation.h" 
 
 // Function declarations
 void modulateSignal(double, double, double*);
